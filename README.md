@@ -10,8 +10,9 @@ This data set contains statistics, in arrests per 100,000 residents for assault,
 
 Usage
 USArrests
+<br>
 Format
-A data frame with 50 observations on 4 variables.
+A data frame with 50 observations on 4 variables. 
 
 [,1]	Murder	numeric	Murder arrests (per 100,000)
 [,2]	Assault	numeric	Assault arrests (per 100,000)
