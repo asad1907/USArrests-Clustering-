@@ -19,8 +19,6 @@ A data frame with 50 observations on 4 variables.
 <br>
 <br>
 <br>
-<br>
-
 [,1]	Murder	numeric	Murder arrests (per 100,000)
 <br>
 [,2]	Assault	numeric	Assault arrests (per 100,000)
@@ -30,26 +28,23 @@ A data frame with 50 observations on 4 variables.
 [,4]	Rape	numeric	Rape arrests (per 100,000)
 <br>
 <br>
-<br>
 Source
 <br>
 World Almanac and Book of facts 1975. (Crime rates).
 <br>
 <br>
-<br>
-
 Statistical Abstracts of the United States 1975. (Urban rates).
 <br>
 <br>
-<br>
-
 References
 <br>
 McNeil, D. R. (1977) Interactive Data Analysis. New York: Wiley.
 
 
 
-
+<br>
+<br>
+<br>
 
 <h2>Requirements</h2>
 
